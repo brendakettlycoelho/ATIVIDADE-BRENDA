@@ -1,0 +1,27 @@
+body {
+  background-color: #f6f7f3;
+}
+
+.topo {
+  background-color: #2e7d32;
+  color: white;
+  padding: 70px 20px;
+  text-align: center;
+}
+
+.icone {
+  font-size: 55px;
+  text-align: center;
+  padding: 20px;
+}
+
+.valor {
+  color: #2e7d32;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.btn-verde {
+  background-color: #2e7d32;
+  color: white;
+}
